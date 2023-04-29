@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi 👋, I'm Azar
 #### A Backend Developer from India
-![A Backend Developer from India](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Backend Developer from India]
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
