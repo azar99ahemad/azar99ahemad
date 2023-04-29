@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Azar
+### Hi there, I'm Azar
 #### A Backend Developer from India
 ![A Backend Developer from India]
 
