@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **az99ahemad@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LmyGgeBP53x0xKRgW-IooWOr3pUwk6IJ/view?usp=share_link](https://drive.google.com/file/d/1LmyGgeBP53x0xKRgW-IooWOr3pUwk6IJ/view?usp=share_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
