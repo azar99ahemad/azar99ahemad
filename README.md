@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azar</h1>
-<h3 align="center">A Backend Developer from India</h3>
+<h3 align="center">A FullStack Developer from India</h3>
 
-- 🌱 I’m currently learning **React.js, Flutter**
+- 🌱 I’m currently learning **React.js, React Native*
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB, Mongoose**
 
