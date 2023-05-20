@@ -1,5 +1,4 @@
----
-[![](https://visitcount.itsvg.in/api?id=azar99ahemad&icon=0&color=0)](https://visitcount.itsvg.in)<h1 align="center">Hi 👋, I'm Azar</h1>
+<h1 align="center">Hi 👋, I'm Azar</h1>
 <h3 align="center">A FullStack Developer from India</h3>
 
 - 🌱 I’m currently learning **React.js, React Native*
