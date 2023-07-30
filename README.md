@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Azar</h1>
-<h3 align="center">A FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Azar.</h1>
+<h3 align="center">A FullStack Developer from India.</h3>
 
-- 🌱 I’m currently learning **React.js, Flutter**
+- 🌱 I’m currently learning **React.js, Flutter.**
 
-- 💬 Ask me about **Node.js, Express.js, MongoDB, Mongoose**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, Mongoose.**
+
+- 👨‍💻 My Portfolio **[Azar-Portfolio](https://azar-portfolio.vercel.app/).**
 
 - 📫 How to reach me **az99ahemad@gmail.com**
 
