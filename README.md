@@ -15,6 +15,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/azar-ahemad-54b55a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azar-ahemad-54b55a204/" height="30" width="40" /></a>
 <a href="https://instagram.com/dot_aware?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dot_aware?igshid=zddkntzintm=" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding Profile:</h3>
+<p align="left">
 <a href="https://www.codechef.com/users/azar_786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/azar_786" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/az99ahemad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/az99ahemad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/azar_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/azar_786" height="30" width="40" /></a>
