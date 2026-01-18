@@ -5,11 +5,11 @@
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB, Mongoose.**
 
-- 👨‍💻 My Portfolio **[Azar-Portfolio](https://azar-portfolio.vercel.app/).**
+- 👨‍💻 My Portfolio **[Azar-Portfolio](https://heyazar.vercel.app).**
 
 - 📫 How to reach me **az99ahemad@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1LmyGgeBP53x0xKRgW-IooWOr3pUwk6IJ/view?usp=share_link).**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1EjwIz6HCOmDdvZAVyjORLJmSi8-IgTfh/view?usp=drive_link).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
