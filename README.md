@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Azar.</h1>
-<h3 align="center">A FullStack Developer from India.</h3>
+<img src="https://res.cloudinary.com/dxdwmc7ob/image/upload/v1773165545/Gemini_Generated_Image_mrauwnmrauwnmra_wroksa.jpg" width="100%" alt="Banner" />
 
-- 🌱 I’m currently learning **React.js, Flutter.**
+# Hi 👋, My name is Azar.
 
-- 💬 Ask me about **Node.js, Express.js, MongoDB, Mongoose.**
+**Passionate Full Stack developer from India. On way to master Programming.**
 
-- 👨‍💻 My Portfolio **[Azar-Portfolio](https://heyazar.vercel.app).**
+## About Me
 
-- 📫 How to reach me **az99ahemad@gmail.com**
+Hey there! I’m a Freelance Full Stack Developer from India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1A5v7Ghr6aA8ATwpVBiMA-A_1dBcshg0i/view?usp=drive_link).**
+Let’s make the web a more exciting place, one quirky line of code at a time!
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/azar-ahemad-54b55a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azar-ahemad-54b55a204/" height="30" width="40" /></a>
-<a href="https://instagram.com/dot_aware?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dot_aware?igshid=zddkntzintm=" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azar-ahemad-54b55a204/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/dot_aware?igshid=zddkntzintm=" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Coding Profile:</h3>
