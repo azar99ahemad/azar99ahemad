@@ -1,14 +1,27 @@
 <img src="https://res.cloudinary.com/dxdwmc7ob/image/upload/v1773165545/Gemini_Generated_Image_mrauwnmrauwnmra_wroksa.jpg" width="100%" alt="Banner" />
 
-# Hi 👋, My name is Azar.
+# Hi 👋, I'm Azar – Full Stack Developer from India
 
-**Passionate Full Stack developer from India. On way to master Programming.**
+**Freelance Full Stack Developer | Building Scalable Web & Mobile Applications**
 
-## About Me
+## 🚀 About Me
 
-Hey there! I’m a Freelance Full Stack Developer from India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
+Hey! I’m Azar, a passionate **Full Stack Developer from India** with a focus on building **modern, user-friendly, and high-performance web applications**. I specialize in creating seamless digital experiences using the latest technologies across both frontend and backend.
 
-Let’s make the web a more exciting place, one quirky line of code at a time!
+With hands-on experience in developing real-world projects, I enjoy turning ideas into functional, scalable products. From crafting responsive UI to building robust backend systems, I aim to deliver solutions that are both efficient and engaging.
+
+I’m continuously learning and improving my skills to master programming and stay updated with industry trends.
+
+## 💡 What I Do
+
+* Develop **full stack web and mobile applications**
+* Build **responsive and intuitive user interfaces**
+* Design **scalable backend systems & APIs**
+* Optimize performance for better user experience
+
+## 🎯 Goal
+
+To create impactful digital products and make the web a more interactive and meaningful place—one line of code at a time.
 
 
 ### Connect with me:
